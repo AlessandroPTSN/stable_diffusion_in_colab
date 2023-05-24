@@ -10,8 +10,8 @@ Stable Diffusion is a software that generates images through artificial intellig
 AUTOMATIC1111 (A1111 for short) Stable Diffusion webui is the web interface where users can use stable diffusion on a more user friendly platform.  
 You can use AUTOMATIC1111 on Google Colab , Windows or Mac, however, in this repository we will focus on how to use GUI AUTOTMATIC1111 on google colab.
 
-Video of how to adjust the settings: https://www.youtube.com/watch?v=X-mgG79HOZM  
-Main Github: https://github.com/nolanaatama/sd-1click-colab  
+Video of how to adjust the settings: [Link](https://www.youtube.com/watch?v=X-mgG79HOZM)  
+Main Github: [Link](https://github.com/nolanaatama/sd-1click-colab)  
 
 To use it, just run the stable_in_webui.ipynb file, it already has some models listed, and other models from other sources can be added (such as hugging_face or civitai).  
 
@@ -23,8 +23,8 @@ To use it, just run the stable_in_webui.ipynb file, it already has some models l
 
 If you want to create your own model, we recommend opening the train_model.ipynb file, it is already configured for creating a custom model.  
 
-Video of how to adjust the settings: https://www.youtube.com/watch?v=UoQIVNjOPsI  
-Main Github: https://github.com/Linaqruf/kohya-trainer  
+Video of how to adjust the settings: [Link](https://www.youtube.com/watch?v=UoQIVNjOPsI)   
+Main Github: [Link](https://github.com/Linaqruf/kohya-trainer)
 
 Before training the Lora model, it is necessary to organize our set of images. to be compatible with the notebook we provide, we recommend 20 images, from the birme website, it is possible to cut them to 512x512 pixels, leave them all in jpeg format and download them in zip format.
 

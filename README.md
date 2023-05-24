@@ -3,7 +3,6 @@ This project consists of showing step by step the installation and use of stable
 
 Medium : [Link](https://medium.com/@alessandro.pereira.700/%EF%B8%8F-image-generation-using-neural-networks-3863cb234383) 
 
-## What is stable diffusion?
 ![image](https://github.com/AlessandroPTSN/stable_diffusion_in_colab/assets/50224653/dbbb3b15-204c-4195-a228-359158ccc618)
 
 Stable Diffusion is a software that generates images through artificial intelligence fed by an image bank with multiple descriptions used as a reference in the production of new images.

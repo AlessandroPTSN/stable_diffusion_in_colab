@@ -2,6 +2,7 @@
 This project consists of showing step by step the installation and use of Stable Diffusion, as well as how to train models to create your own custom images: to professional profile pictures to illustrations with your own face. Also we'll talk about some very useful applications for the tool. All of this without necessarily having a powerful computer, harnessing the power of Google Colab.
 
 Medium : [Link](https://medium.com/@alessandro.pereira.700/%EF%B8%8F-profile-photos-generation-with-stable-diffusion-3863cb234383) 
+Pitch 5min : [Link](https://www.loom.com/share/65f7455a9b0e4ba38b2290d3760e8469)
 
 ![image](https://github.com/AlessandroPTSN/stable_diffusion_in_colab/assets/50224653/dbbb3b15-204c-4195-a228-359158ccc618)
 

@@ -4,7 +4,7 @@ This project consists of showing step by step the installation and use of Stable
 Medium : [Link](https://medium.com/@alessandro.pereira.700/%EF%B8%8F-profile-photos-generation-with-stable-diffusion-3863cb234383)   
 Pitch 5min : [Link](https://www.loom.com/share/65f7455a9b0e4ba38b2290d3760e8469)
 
-![image](https://github.com/AlessandroPTSN/stable_diffusion_in_colab/assets/50224653/dbbb3b15-204c-4195-a228-359158ccc618)
+![image](https://github.com/AlessandroPTSN/stable_diffusion_in_colab/assets/50224653/f4ea465c-9291-4237-b8cf-c37c7fafa47c)
 
 For starters, Stable Diffusion is a software that uses artificial intelligence to create images from a model that learned how to build images from a massive database composed of data from all around the internet. It uses that information and knowledge as reference for making new images.
 
